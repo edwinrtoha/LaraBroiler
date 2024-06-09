@@ -1,0 +1,19 @@
+{
+  "name": "edwinrtoha/lara-broiler",
+  "type": "library",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "edwinrtoha",
+      "email": "edwin.rahmad.toha007@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "^11.9",
+    "laravel/tinker": "^2.9",
+    "spatie/laravel-medialibrary": "^11.5"
+  }
+}
